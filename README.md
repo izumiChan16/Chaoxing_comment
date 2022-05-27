@@ -26,7 +26,7 @@ pip install selenium
 5. 如果你不是我班同学，请把`comment.py`文件中的url替换成你需要评论的主网页
 ![如图操作](https://cos.izumichan16.cn/img/20220527113245.png)
 
-6. 最后您可以直接运行本程序
+6. 最后您可以直接运行本程序  
 ![](https://cos.izumichan16.cn/img/20220527113823.png)
 ![](https://cos.izumichan16.cn/img/20220527104941.png)
 
