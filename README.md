@@ -28,6 +28,7 @@ pip install selenium
 
 6. 最后您可以直接运行本程序
 ![](https://cos.izumichan16.cn/img/20220527113823.png)
+![](https://cos.izumichan16.cn/img/20220527104941.png)
 
 ## 最后
 有任何问题可以提交issue或微信联系我本人（仅限同学
