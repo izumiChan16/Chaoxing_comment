@@ -31,3 +31,5 @@ pip install selenium
 
 ## 最后
 有任何问题可以提交issue或微信联系我本人（仅限同学
+
+欢迎star以及fork本项目
