@@ -23,7 +23,7 @@ pip install selenium
 
 5. 请把`comment.py`文件中的`name_input`和`pwd_input`替换成你的用户名和密码
 
-6. 如果你不是我班同学，请把`comment.py`文件中的url替换成你需要评论的主网页
+6. 请把`comment.py`文件中的url替换成你需要评论的主网页
 ![如图操作](https://cos.izumichan16.cn/img/20220527113245.png)
 
 7. 最后您可以直接运行本程序  
